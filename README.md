@@ -52,4 +52,4 @@ This project analyzes **credit card customer churn** using Power BI. The goal wa
 4. Explore the interactive dashboards and visualizations.
 
 ```bash
-git clone https://github.com/your-username/customer-churn-analysis.git
+git clone https://github.com/saimahithae/customer-churn-analysis.git
